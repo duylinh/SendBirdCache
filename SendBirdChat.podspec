@@ -11,7 +11,7 @@ s.license      = "MIT"
 s.author       = { "Zahid" => "m_zahidimran@yahoo.com" }
 #s.source       = { :path => "." }
 s.dependency 'SendBirdSDK', '~> 3.0.122'
-s.source       = { :git => "git@github.com/mzahidimran/SendBirdCache.git", :tag => "#{s.version}" }
+s.source       = { :git => "https://github.com/mzahidimran/SendBirdCache.git", :tag => "#{s.version}" }
 s.source_files  = "SendBirdChat/**/*.*"
 s.exclude_files = "SendBirdChat/**/*.plist"
 s.ios.deployment_target  = '10.0'
