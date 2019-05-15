@@ -14,7 +14,7 @@ SendBirdChat framework requires
 	
 To add to project using pods use pod
 
-`pod 'SendBirdChat', :git => 'git@github.com:mzahidimran/SendBirdChat.git', :branch => 'master'`
+`pod 'SendBirdChat'`
 
 
 
