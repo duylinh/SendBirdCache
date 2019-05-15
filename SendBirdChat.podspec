@@ -6,7 +6,7 @@ s.summary      = "Sendbird Chat Cache"
 s.description  = <<-DESC
 A much much longer description of MyFramework.
 DESC
-s.homepage     = "https://github.com/mzahidimran/SendBirdChat"
+s.homepage     = "https://github.com/mzahidimran/SendBirdCache"
 s.license      = "MIT"
 s.author       = { "Zahid" => "m_zahidimran@yahoo.com" }
 #s.source       = { :path => "." }
