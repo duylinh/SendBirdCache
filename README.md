@@ -208,3 +208,4 @@ func send(text tx:String) -> Void  {
         SendBirdChat.saveMessage(message: previewMessage!)
         
     }`
+Version 1.0
