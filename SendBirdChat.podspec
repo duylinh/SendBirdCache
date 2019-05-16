@@ -15,6 +15,6 @@ s.source       = { :git => "https://github.com/mzahidimran/SendBirdCache.git", :
 s.source_files  = "SendBirdChat/**/*.*"
 s.exclude_files = "SendBirdChat/**/*.plist"
 s.ios.deployment_target  = '10.0'
-s.swift_version = '4.0'
+s.swift_version = '4.2'
 s.resource_bundles = {'SendBirdChat' => ['SendBirdChat/SendBirdChat.xcdatamodeld']}
 end
